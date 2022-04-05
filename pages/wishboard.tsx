@@ -49,7 +49,7 @@ const Wishboard: NextPage = () => {
           />
           <Wish
             wish="Over the past few months you’ve given me so much Rachey. It’s hard to put it all in a few sentences, but I want to thank you so much for everything. You deserve all the love in the world have a wonderful day!💛"
-            sender="Del"
+            sender="Mocha"
           />
           <Wish
             wish="HAPPY BIRTHDAY RACHEL DACHEL! another year of you means another year of entertainment😁. have a great day and keep doing what you do"
