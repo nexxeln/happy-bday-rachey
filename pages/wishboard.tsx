@@ -68,7 +68,7 @@ const Wishboard: NextPage = () => {
             sender="Lakdak"
           />
           <Wish
-            wish="Happy birthday Rachey!! I'm so glad that I clicked on your profile that day and joined your server. I wish you another great year of streaming and I'm hoping you like this!"
+            wish="Happy birthday Rachey!! I'm so glad that I clicked on your profile that day and joined your server. I wish you another great year of streaming and I'm hoping you like this website!"
             sender="nexxel"
           />
           <Wish
