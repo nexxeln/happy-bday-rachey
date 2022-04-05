@@ -48,6 +48,10 @@ const Wishboard: NextPage = () => {
             sender="Bigby"
           />
           <Wish
+            wish="Heyo Rachey, Happy birthday to you! 21, a big milestone to finally reach after.. 21 years lmao. I hope you had an amazing day, got the stuff you wanted and are spending it well with whoever you choose to spend it with. We all love you!"
+            sender="Kurix"
+          />
+          <Wish
             wish="Racheydachey is such an amazing streamer and I’m so glad I found her channel. She is also super nice when I talk to her on the server in streams or that one time I played with her. So I hope she has the best birthday a person can ask for!"
             sender="Imchase (kgwinter's biggest fan)"
           />
