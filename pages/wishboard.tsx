@@ -44,6 +44,10 @@ const Wishboard: NextPage = () => {
           sender="Lakdak"
         />
         <Wish
+          wish="Happy birthday Rachey!! I'm so glad that I clicked on your profile that day and joined your server. I wish you another great year of streaming and I'm hoping you like this!"
+          sender="nexxel"
+        />
+        <Wish
           wish="Happy bday rachey I wish you become twitch's big big streamer soon."
           sender="Lirena"
         />
@@ -56,11 +60,11 @@ const Wishboard: NextPage = () => {
           wish="happy birthday, your are officially a boomer"
           sender="Ayze"
         />
-        <Wish wish="We Love You RACHEY" sender="Jewwy" />
         <Wish
           wish="Happy birthday rachey u can finally drink boom— youngster happy 21 first birthday "
           sender="The big sexy Frenchy"
         />
+        <Wish wish="We Love You RACHEY" sender="Jewwy" />
       </div>
 
       <div className="pb-6"></div>
