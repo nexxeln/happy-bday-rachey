@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 .background {
     background: rgb(140, 135, 218);
-    background: linear-gradient(207deg, rgba(140, 135, 218, 1) 0%, rgba(141, 98, 152, 1) 56%);
+    background: linear-gradient(200deg, rgba(140, 135, 218, 1) 0%, rgba(120, 81, 169, 1) 71%);
 }
