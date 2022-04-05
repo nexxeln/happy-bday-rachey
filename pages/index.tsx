@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         />
       </div>
       <div className="flex items-center justify-center pt-6 space-x-4">
-        <Button type="gallery" />
+        <Button type="wishboard" />
       </div>
     </div>
   );
