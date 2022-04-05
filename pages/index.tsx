@@ -9,6 +9,7 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Happy Birthday Rachey</title>
+        <link rel="icon" href="/favicon/favicon.ico" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="description" content="Happy birthday to Rachey!" />
       </Head>

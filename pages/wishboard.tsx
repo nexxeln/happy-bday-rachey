@@ -8,6 +8,7 @@ const Wishboard: NextPage = () => {
     <>
       <Head>
         <title>Rachey | Wishboard</title>
+        <link rel="icon" href="/favicon/favicon.ico" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="description" content="Wishes for Rachey!" />
       </Head>
