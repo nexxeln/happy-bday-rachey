@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import Image from "next/image";
-import Button from "../components/Button";
-import Header from "../components/Header";
+import Button from "../components/Home/Button";
+import Header from "../components/Home/Header";
 
 const Home: NextPage = () => {
   return (
@@ -23,7 +23,6 @@ const Home: NextPage = () => {
       </div>
       <div className="flex items-center justify-center pt-6 space-x-4">
         <Button type="gallery" />
-        <Button type="default" />
       </div>
     </div>
   );
