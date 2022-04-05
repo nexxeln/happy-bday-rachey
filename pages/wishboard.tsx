@@ -8,7 +8,7 @@ const Wishboard: NextPage = () => {
       <div className="flex items-center justify-center">
         <Heading />
       </div>
-      <div className="py-8"></div>
+      <div className="py-8" />
 
       <div className="items-start">
         <Wish
@@ -67,7 +67,7 @@ const Wishboard: NextPage = () => {
         <Wish wish="We Love You RACHEY" sender="Jewwy" />
       </div>
 
-      <div className="pb-6"></div>
+      <div className="pb-6" />
     </div>
   );
 };
