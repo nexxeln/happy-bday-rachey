@@ -24,6 +24,10 @@ const Wishboard: NextPage = () => {
             sender="KGwinter"
           />
           <Wish
+            wish="Heyyyy small fry, Happy 21st birthday!! You mean so much to us and you've inspired so many people. Never stop streaming or else hehe, have a great birthday and party like an animal with me. No alcohol though only coffee shots. 21 years is alot you are a big boomer. Can't wait to see what else you got for streaming. I better be 1st to say happy birthday next year tho."
+            sender="Xiloh"
+          />
+          <Wish
             wish="Happy Birthday Rachey! I hope you have a great Birthday and a great year. I’m so happy I met you and I’m looking forward to seeing you grow more and more in the near future. <33 "
             sender="Dark"
           />
