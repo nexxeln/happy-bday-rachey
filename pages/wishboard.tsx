@@ -84,6 +84,10 @@ const Wishboard: NextPage = () => {
             sender="Lirena"
           />
           <Wish
+            wish="Rachey, thank you for getting me back into streaming."
+            sender="Spirit"
+          />
+          <Wish
             wish="Wishing you a fantastic birthday and wonderful year ahead. Make every day count!"
             sender="Faux"
           />
