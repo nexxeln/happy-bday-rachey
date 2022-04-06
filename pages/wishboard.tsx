@@ -44,12 +44,20 @@ const Wishboard: NextPage = () => {
             sender="Sleepys"
           />
           <Wish
+            wish="Happy birthday rachey, I haven't known you long but from what I've seen you are amazing. I hope you enjoy your 21st btw you're getting kinda old jkjkjk I love ya mate and i appreciate you. You are an amazing strong best woman don't let anyone tell you otherwise. Yours truly, Popsi the great"
+            sender="Popsi"
+          />
+          <Wish
             wish="Hey rachey its lobo first I just wanna say happy birthday and I hope you enjoy your day. And uh I'm glad to see you progressing so far with twitch and making those goals. Pretty much all I gotta say tbh I'm not a talker or motivational person. 😭"
             sender="Lobo"
           />
           <Wish
             wish="Over the past few months you’ve given me so much Rachey. It’s hard to put it all in a few sentences, but I want to thank you so much for everything. You deserve all the love in the world have a wonderful day!💛"
             sender="Mocha"
+          />
+          <Wish
+            wish="HAPPY BIRTHDAY MY LOVE. You’re 21 now 🤩 we haven’t known each other for that long but I know we’re gonna know each other for a long time. I wish you the best day ever shawty. I love you"
+            sender="Joanna"
           />
           <Wish
             wish="HAPPY BIRTHDAY RACHEL DACHEL! another year of you means another year of entertainment😁. have a great day and keep doing what you do"
