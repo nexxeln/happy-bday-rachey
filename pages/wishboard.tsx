@@ -52,6 +52,10 @@ const Wishboard: NextPage = () => {
             sender="Lobo"
           />
           <Wish
+            wish="i wish you nothing but the best for you and for your future. through your ups and downs and dark times i hope you will always be able to find a light and follow it to success and better things. happy birthday and much love"
+            sender="hoezay"
+          />
+          <Wish
             wish="Over the past few months you’ve given me so much Rachey. It’s hard to put it all in a few sentences, but I want to thank you so much for everything. You deserve all the love in the world have a wonderful day!💛"
             sender="Mocha"
           />
